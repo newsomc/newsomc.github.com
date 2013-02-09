@@ -1,0 +1,2 @@
+newsomc.github.com
+==================
